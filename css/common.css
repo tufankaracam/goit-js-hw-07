@@ -125,10 +125,6 @@ input:hover {
   outline: 1px solid black;
 }
 
-button {}
-
-
-
 input::placeholder {
   font-family: var(--font-family);
   font-weight: 400;
